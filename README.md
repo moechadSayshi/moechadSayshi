@@ -2,7 +2,7 @@
 - 👀 I’m interested in cross platform developement 
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on soon
-- 📫 How to reach me mail me at mohitsinghwiththeglasses@proton.com
+- 📫 How to reach me mail me at mohitsinghwiththeglasses@protonmail.com
 
 <!---
 moechadSayshi/moechadSayshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
