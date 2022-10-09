@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moechadsayshi&label=Profile%20views&color=0e75b6&style=flat" alt="moechadsayshi" /> </p>
 
-- 🌱 I’m currently learning **C++,dart,flutter**
+- 🌱 I’m currently learning **C,C++,dart,flutter,javaScript**
 
 - 💬 Ask me about **traveling**
 
