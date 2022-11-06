@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Web Development skills**
 
-- 🌱 I’m currently learning **HTML5 & CSS3**
+- 🌱 I’m currently learning **HTML5,CSS3 & JavaScript**
 
 - 🤝 I’m looking for help with **Web Development Projects**
 
