@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit singh</h1>
-<h3 align="center">I am a sophomore at gkv. I love learning about anything new that helps me understand a computer's working better.</h3>
+<h3 align="center">I am a web dev. I love learning about anything new that helps me understand a computer's working better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moechadsayshi&label=Profile%20views&color=0e75b6&style=flat" alt="moechadsayshi" /> </p>
 
 - 🔭 I’m currently working on **my Web Development skills**
 
-- 🌱 I’m currently learning **HTML5,CSS3 & JavaScript**
+- 🌱 I’m currently learning **HTML5,CSS3,JavaScript, React, Node Js, Python**
 
 - 🤝 I’m looking for help with **Web Development Projects**
 
