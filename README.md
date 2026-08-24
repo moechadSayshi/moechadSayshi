@@ -71,11 +71,11 @@ I also enjoy building AI-powered applications — from image generation to compu
 
 ## 🚀 Featured Projects
 
-### 🎨 [Dream App — AI Image Generator](https://github.com/moechadSayshi/dream-app)
+### 🤖 [Gemini Copilot](https://github.com/moechadSayshi/GeminiCopilot)
 
-AI image generation app built around the OpenAI API, with a modern frontend and Express backend.
+A lightweight VS Code extension that provides AI-powered inline code completions using Google Gemini. It includes secure API-key storage through VS Code's `SecretStorage`, configurable request debouncing, in-flight request cancellation, smart code continuation, and rate-limit cooldown handling.
 
-**Stack:** JavaScript · React · Vite · Express.js · OpenAI API
+**Stack:** TypeScript · VS Code Extension API · Node.js · Google Gemini · esbuild
 
 ### 📚 [Manga Translation System](https://github.com/moechadSayshi/manga-translation)
 
