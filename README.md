@@ -8,7 +8,7 @@ I build practical software across **web development, cloud infrastructure, DevOp
 
 [![GitHub](https://img.shields.io/badge/GitHub-moechadSayshi-181717?style=for-the-badge&logo=github)](https://github.com/moechadSayshi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohitwiththeglasses.art-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitwiththeglasses.art)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-singh-gkv/)
 
 </div>
 
@@ -120,6 +120,7 @@ Responsive employee management dashboard focused on clean UI, reusable component
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/moechadSayshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-singh-gkv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitwiththeglasses.art)
 
 </div>
