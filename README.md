@@ -1,141 +1,126 @@
 <div align="center">
 
-# Hi there, I'm Mohit 👋
+# Hey, I'm Mohit 👋
 
-### • DevOps Enthusiast • Cloud & AI Builder
+### Software Engineer • Cloud & DevOps Enthusiast • AI Builder
 
-Building scalable web applications, automating infrastructure, and exploring the intersection of AI, cloud computing, and secure software engineering.
+I build practical software across **web development, cloud infrastructure, DevOps, and AI** — with a focus on shipping reliable, scalable systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-moechadSayshi-181717?style=for-the-badge&logo=github)](https://github.com/moechadSayshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohitwiththeglasses.art-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitwiththeglasses.art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a software engineer passionate about building modern, scalable, and production-ready applications. My primary interests lie in full-stack development, cloud infrastructure, DevOps, and AI-powered solutions. I enjoy transforming ideas into reliable software while continuously learning new technologies that improve performance, security, and developer experience.
+I'm a software engineer who enjoys turning ideas into working products and learning how to run them reliably in production.
 
-Currently, I'm focusing on expanding my expertise in **AWS**, **Kubernetes**, **DevSecOps**, and modern backend architectures while building projects that solve real-world problems.
+My current focus is on **AWS, Kubernetes, Docker, CI/CD, DevSecOps, and backend systems**, while continuing to build with React, Node.js, Python, and AI APIs.
+
+I also enjoy building AI-powered applications — from image generation to computer-vision and document/text translation pipelines.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
-
-## Backend
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## AI / Machine Learning
+### AI / ML
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
 
----
-
-## Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+### Tools
 
-## Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Dream App – AI Image Generator
+### 🎨 [Dream App — AI Image Generator](https://github.com/moechadSayshi/dream-app)
 
-An AI-powered image generation platform that converts user prompts into high-quality images using OpenAI APIs while providing a modern, responsive user experience.
+AI image generation app built around the OpenAI API, with a modern frontend and Express backend.
 
-**Tech:** JavaScript • React • Vite • Express.js • OpenAI API
+**Stack:** JavaScript · React · Vite · Express.js · OpenAI API
 
----
+### 📚 [Manga Translation System](https://github.com/moechadSayshi/manga-translation)
 
-### 📚 Manga Translation System
+AI-powered manga translation pipeline that detects text regions, extracts text, translates it, and produces translated output.
 
-A complete AI pipeline that detects manga text regions, performs OCR, translates content, and reconstructs translated manga pages automatically.
+**Stack:** Python · FastAPI · YOLO · ONNX · OpenCV · OpenAI API
 
-**Tech:** Python • FastAPI • YOLO • OpenAI GPT • ONNX • OpenCV
+### 👨‍💼 [Employee Management System](https://github.com/moechadSayshi/employ-management-system)
 
----
+Responsive employee management dashboard focused on clean UI, reusable components, and efficient frontend state management.
 
-### 👨‍💼 Employee Management System
-
-A responsive employee management dashboard built with modern frontend technologies featuring intuitive UI components and efficient state management.
-
-**Tech:** React • Vite • Tailwind CSS • JavaScript
+**Stack:** React · Vite · Tailwind CSS · JavaScript
 
 ---
 
-# 📊 GitHub Stats
+## ☁️ What I'm Learning
+
+- AWS architecture, deployment, and cloud fundamentals
+- Kubernetes and container orchestration
+- DevSecOps and secure CI/CD pipelines
+- Infrastructure automation and production monitoring
+- Scalable backend and distributed systems
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=moechadSayshi&show_icons=true&hide_border=true&theme=transparent" alt="Mohit's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moechadSayshi&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent)
+<img src="https://streak-stats.demolab.com?user=moechadSayshi&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- ☁️ AWS Cloud Architecture
-- ⚙️ Kubernetes & Container Orchestration
-- 🔐 DevSecOps Practices
-- 🚀 CI/CD Automation
-- 🏗️ Scalable Backend Systems
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/moechadSayshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitwiththeglasses.art)
 
 </div>
 
@@ -143,8 +128,6 @@ A responsive employee management dashboard built with modern frontend technologi
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Build. Learn. Repeat."*
+### Build → Break → Learn → Repeat 🚀
 
 </div>
